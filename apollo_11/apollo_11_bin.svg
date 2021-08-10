@@ -16,9 +16,9 @@
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="apollo_11_bin.svg"
-   inkscape:export-filename="C:\Users\oscar\Desktop\Art\apollo_11.png"
-   inkscape:export-xdpi="100.04492"
-   inkscape:export-ydpi="100.04492">
+   inkscape:export-filename="C:\Users\oscar\Desktop\GitProjects\nerdart\apollo_11\apollo_11.png"
+   inkscape:export-xdpi="120.92795"
+   inkscape:export-ydpi="120.92795">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.75722503"
-     inkscape:cx="451.68962"
+     inkscape:cx="215.30018"
      inkscape:cy="571.95484"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

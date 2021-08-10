@@ -1,13 +1,14 @@
-# Apollo-11
-This work illustrates the machine code of the Luminary 1A (version 099), the Lunar Module's (LM) Apollo Guidance Computer (AGC) for Apollo 11. Two different variants exist:
-* **apollo_11_bin**: First 512 bytes of the binary code for Luminary 1A (version 099), the Lunar Module's (LM) Apollo Guidance Computer (AGC) for Apollo 11.
-* **apollo_11_asm**: Page 800-801 of the source code for Luminary 1A (version 099), the Lunar Module's (LM) Apollo Guidance Computer (AGC) for Apollo 11.
+# Apollo 11
+This work illustrates the machine code of the Luminary 1A (version 099), the Lunar Module's (LM) Apollo Guidance Computer (AGC) for Apollo 11. In the background the reentry capsule is shown. Two different variants exist:
+
+<img src="apollo_11_bin.svg" width="500" height="500" />
+<img src="apollo_11_asm.svg" width="500" height="500" />
 
 ## The binary code
 The binary code is a part of the compiled (using the Docker image) [Virtual Apollo Guidance Computer](https://github.com/virtualagc/virtualagc), where the generated binary has been dumped to binary format using `xxd`.
 
-## The assembler code
-The original assembler code for the Apollo 11 guidance computer has been transcribed (about 3000 pages!) and is available on Github, https://github.com/chrislgarry/Apollo-11.
+## The source code
+The original assembler source code for the Apollo 11 guidance computer has been transcribed (about 3000 pages!) and is available on Github, https://github.com/chrislgarry/Apollo-11.
 
 ## The Futura font
 The Futura font is the first font to land on the lunar surface, as it was used to engrave a plaque: *HERE MEN FROM THE PLANET EARTH FIRST SET FOOT UPON THE MOON JULY 1969, A. D. WE CAME IN PEACE FOR ALL MANKIND* - signed by the astronauts (Neil A. Armstrong, Michael Collins, Edwin E. Aldrin, Jr.) and president Richard Nixon. The plaque was mounted on the lunar landing vehicle which was left behind on the moon, see [How Apollo 11 launched Futura to the moon](https://www.typeroom.eu/article/how-apollo-11-launched-futura-moon) for further reading.
